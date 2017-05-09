@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/left_side.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/right_side.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_threshold_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_negativepeak_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_negativepeak_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fixed_range.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/fixed_range.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/right_side_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/play_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/auto_range.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/auto_range.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/fft_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/save_recording_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/reset_graph_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_peak_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/reset_graph.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/right_side_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_peak.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/play_recording_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_negativepeak.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_stop.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/play_recording_stop.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/play_recording_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/play_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_negativepeak_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/reset_graph_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/left_side_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/fft_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/auto_range.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/auto_range.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/right_side.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/fft_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/start_recording.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/start_recording.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_threshold.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/stop_recording.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/stop_recording.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/reset_graph_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_threshold_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/start_recording.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/start_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/left_side.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/play_recording_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/save_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/left_side_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_peak_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_negativepeak.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/save_recording_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_peak.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/start_recording_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/start_recording_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/reset_graph_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/save_recording_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_negativepeak_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_negativepeak_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/right_side_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_stop.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/play_recording_stop.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_peak_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/play_recording_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/play_recording_toggle.xml"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_peak_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/find_peak_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_threshold_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side_toggle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/left_side_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/reset_graph.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/reset_graph.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/left_side_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/left_side_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/right_side_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/right_side_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/save_recording_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fixed_range.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/fixed_range.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/start_recording_disabled.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/start_recording_disabled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/fft.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft_disabled.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/fft_disabled.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/fft.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/fft.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/stop_recording.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable/stop_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold_toggle.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_threshold_toggle.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/save_recording.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/save_recording.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable/find_threshold.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable/find_threshold.png"
+    }
+]

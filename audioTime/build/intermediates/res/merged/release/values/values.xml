@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/apk/lib/com.androidplot.xy">
+    <declare-styleable name="XYPlot"><attr format="string" name="androidplot.title"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="domain_label_font_size">13dp</dimen>
+    <dimen name="domain_tick_label_font_size">15dp</dimen>
+    <dimen name="legend_text_font_size">15dp</dimen>
+    <dimen name="pie_segment_label_font_size">10dp</dimen>
+    <dimen name="range_label_font_size">13dp</dimen>
+    <dimen name="range_tick_label_font_size">15dp</dimen>
+    <dimen name="title_font_size">20dp</dimen>
+    <string name="app_name">AudioTime</string>
+    <string name="auto_range">\tToggle auto range of amplitude.</string>
+    <string name="domain_label">time</string>
+    <string name="fft">\tDetermine dominant frequency in window.</string>
+    <string name="fft_title">FFT results</string>
+    <string name="frequency">Frequency (Hz) of the four highest power: </string>
+    <string name="help">\tHelp and information.</string>
+    <string name="info">AudioTime can record, display audio events, and measure the relative time of occurrence between two audio events, and determine the dominant frequency of an audio segment.\n
+						Gestures select graph areas:\n
+						Tap one finger to mark the interval yellow.\n
+						Drag the yellow interval mark.\n
+						Two finger pinch or squeeze to zoom.\n
+						Drag to pan left and right.\n
+						Tap twice to remove yellow markers.\n
+	</string>
+    <string name="interval_label">Interval</string>
+    <string name="left_side">\tLeft end of samples.</string>
+    <string name="play_recording">\tPlay the windowed samples.</string>
+    <string name="range_label">Amplitude</string>
+    <string name="recommended">Recommended window minimum: </string>
+    <string name="reset_graph">\tReset window to full recorded sample time.</string>
+    <string name="right_side">\tRight end of samples.</string>
+    <string name="samples">Samples: </string>
+    <string name="save_recording">\tSave the windowed samples.</string>
+    <string name="start_recording">\tStart recording samples.</string>
+    <string name="stop_recording">\tStop recording.</string>
+    <string name="window">Window: </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <ns1:style name="plotStyle1">
+        <!--<item name="androidplot.title">Default Title</item>
+        <item name="androidplot.domainLabel">my domain</item>-->
+        <!--<item name="XYPlot:androidplot.title">my domain</item>-->
+    </ns1:style>
+    <ns1:style name="sample_activity">
+        <ns1:item name="android:layout_width">fill_parent</ns1:item>
+        <ns1:item name="android:layout_height">fill_parent</ns1:item>
+    </ns1:style>
+    <ns1:style name="toc_button">
+        <ns1:item name="android:layout_width">fill_parent</ns1:item>
+        <ns1:item name="android:layout_height">wrap_content</ns1:item>
+    </ns1:style>
+</resources>

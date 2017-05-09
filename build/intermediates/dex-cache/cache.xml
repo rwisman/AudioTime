@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/exploded-aar/AudioTime/fFT/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27cb9ac71ebac4f6d69d68bb8d52c13f8d986b16">
+        <dex dex="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/pre-dexed/release/AudioTime-fFT-unspecified_62622eade326ff1dee19567e6ca8ba5e739f4363.jar" />
+    </item>
+    <item
+        jar="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/exploded-aar/AudioTime/fFTresult/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af54aa5bf4dc70f114ac9eecb6ddaa2ac8ab7463">
+        <dex dex="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/pre-dexed/release/AudioTime-fFTresult-unspecified_d355a41f6576236bee04d25e010c87a59af3f254.jar" />
+    </item>
+    <item
+        jar="/Users/rwisman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/pre-dexed/release/support-v4-19.1.0_1e123b032a833f6203f139c30dc9c71dbb56e953.jar" />
+    </item>
+    <item
+        jar="/Users/rwisman/StudioProjects/AudioTime/audioTime/libs/androidplot-core-0.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f748797c749973ce1364ea8cc640744b64f78709">
+        <dex dex="/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/pre-dexed/release/androidplot-core-0.6.0_394431bbe55958c64116dfdd4d2ae2fe0cc7f405.jar" />
+    </item>
+
+</items>

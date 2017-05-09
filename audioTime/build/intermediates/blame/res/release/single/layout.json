@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/layout/info.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/layout/filename.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/layout/filename.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/layout/about.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/layout/audiotime.xml",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/layout/audiotime.xml"
+    }
+]

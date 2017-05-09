@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/legal.txt",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/raw/legal.txt"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/info.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/about.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/about.txt"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/info.txt",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/legal.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/legal.txt"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/raw/about.txt",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/raw/about.txt"
+    }
+]

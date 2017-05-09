@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/exploded-aar/AudioTime/fFTresult/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/d/RESEARCH/Mobile Science/AudioTime/audioTime/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/exploded-aar/AudioTime/fFTresult/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/raw/about.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/about.txt"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/raw/info.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/Users/rwisman/StudioProjects/AudioTime/audioTime/build/intermediates/res/merged/release/raw/legal.txt",
+        "source": "/Users/rwisman/StudioProjects/AudioTime/audioTime/src/main/res/raw/legal.txt"
+    }
+]
